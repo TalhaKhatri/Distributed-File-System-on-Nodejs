@@ -1,0 +1,33 @@
+{
+  "name": "distributed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "proxy": "node proxy_server.js",
+    "server_A": "node server_socket.js 0",
+    "server_B": "node server_socket.js 1",
+    "server_C": "node server_socket.js 2",
+    "client": "node client_socket.js"
+  },
+  "author": "Talha Khatri <talhakhatri3@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "nodemon": "^1.18.6",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "client_cache/*",
+      "server_A_root/*",
+      "server_B_root/*",
+      "server_C_root/*",
+      "directory_structure_A.json",
+      "directory_structure_B.json",
+      "directory_structure_C.json"
+    ]
+  }
+}

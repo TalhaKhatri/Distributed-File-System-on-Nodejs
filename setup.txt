@@ -1,0 +1,16 @@
+1. You need to have node installed on your system.
+2. This works on linux systems since the file editor that the solution uses is gedit which is available on linux.
+3. Do an 'npm install' to install the dependencies.
+4. Start the proxy server in a terminal with 'npm run proxy'. This redirects clients to the actual servers.
+5. Start the servers 0-2 using 'npm run server_A', 'npm run server_B', 'npm run server_C'
+6. Start up the client process using 'npm run client'
+5. Following are the valid commands:
+
+
+ls                                          Lists all contents of the current directory. Directories show up in blue and Files show up in green.
+mkdir <directory name>                      Creates a new directory.
+cd <path>                                   Changes current directory to the specified path.
+create <filename>                           Creates a new empty file in the current directory.
+upload <file_path_on_client> <filename>     Uploads a file at the specified path on the client machine to the current directory in the file system with the specified name.
+open <filename>                             Opens the file in a text editor and then pushes the updates to the filesystem.
+

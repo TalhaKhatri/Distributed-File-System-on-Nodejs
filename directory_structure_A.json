@@ -1,0 +1,131 @@
+{
+    "type": "folder",
+    "name": "",
+    "contents": {
+        "tariq": {
+            "type": "folder",
+            "name": "tariq",
+            "contents": {
+                "talha.exe": {
+                    "type": "file",
+                    "name": "talha.exe",
+                    "mappings": {
+                        "0": {
+                            "name": "jLmvqmHRyx",
+                            "version": 2
+                        },
+                        "1": {
+                            "name": "Y0G1bxsFoQ",
+                            "version": 2
+                        },
+                        "2": {
+                            "name": "f6LbTyzqtx",
+                            "version": 2
+                        }
+                    }
+                },
+                "sakina.c": {
+                    "type": "file",
+                    "name": "sakina.c",
+                    "mappings": {
+                        "0": {
+                            "name": "tbQFuj8nY0",
+                            "version": 3
+                        }
+                    }
+                },
+                "blah": {
+                    "type": "folder",
+                    "name": "blah",
+                    "contents": {}
+                },
+                "blah.txt": {
+                    "type": "file",
+                    "name": "blah.txt",
+                    "mappings": {
+                        "0": {
+                            "name": "ofTigBqi4l",
+                            "version": 3
+                        },
+                        "2": {
+                            "name": "Xg7EySBOhG",
+                            "version": 3
+                        }
+                    }
+                },
+                "blah2.txt": {
+                    "type": "file",
+                    "name": "blah2.txt",
+                    "mappings": {
+                        "0": {
+                            "name": "1mr35OoE9t",
+                            "version": 1
+                        },
+                        "2": {
+                            "name": "sRKz0I6pPO",
+                            "version": 1
+                        }
+                    }
+                },
+                "E-Ticket.pdf": {
+                    "type": "file",
+                    "name": "E-Ticket.pdf",
+                    "mappings": {
+                        "2": {
+                            "name": "biLvFzeo16",
+                            "version": 2
+                        }
+                    }
+                }
+            }
+        },
+        "ahmed.exe": {
+            "type": "file",
+            "name": "ahmed.exe",
+            "mappings": {
+                "0": {
+                    "name": "vcJBpjOcdc",
+                    "version": 7
+                },
+                "1": {
+                    "name": "U3X1gWfRMl",
+                    "version": 7
+                },
+                "2": {
+                    "name": "sBLKztrfGv",
+                    "version": 5
+                }
+            }
+        },
+        "config.json": {
+            "type": "file",
+            "name": "config.json",
+            "mappings": {
+                "1": {
+                    "name": "LpHZGDfBEo",
+                    "version": 3
+                }
+            }
+        },
+        "package.json": {
+            "type": "file",
+            "name": "package.json",
+            "mappings": {
+                "1": {
+                    "name": "5dYWxduZqw",
+                    "version": 2
+                }
+            }
+        },
+        "takina.jso": {
+            "type": "file",
+            "name": "takina.jso",
+            "mappings": {
+                "1": {
+                    "name": "feLuXfmxiW",
+                    "version": 2
+                }
+            }
+        }
+    }
+}

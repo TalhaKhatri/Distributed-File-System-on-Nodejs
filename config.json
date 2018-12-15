@@ -1,0 +1,35 @@
+{
+    "servers": [
+        {
+            "name": "Server A",
+            "ip": "localhost",
+            "port": 3300,
+            "root": "server_A_root",
+            "dir_structure": "./directory_structure_A"
+        },
+        {
+            "name": "Server B",
+            "ip": "localhost",            
+            "port": 3301,
+            "root": "server_B_root",
+            "dir_structure": "./directory_structure_B"
+        },
+        {
+            "name": "Server C",
+            "ip": "localhost",
+            "port": 3302,
+            "root": "server_C_root",
+            "dir_structure": "./directory_structure_C"
+        }
+    ],
+    "proxy": {
+        "ip": "localhost",
+        "port": 3303
+    },
+    "replications": {
+        "txt": 2,
+        "exe": 3,
+        "dll": 3,
+        "c": 1
+    }
+}
